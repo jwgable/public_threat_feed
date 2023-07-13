@@ -1038,3 +1038,4 @@ groundworkseasy.com
 103.56.53.46
 45.251.240.55
 43.254.217.165
+*wavebrowserbase.com
