@@ -1056,3 +1056,5 @@ groundworkseasy.com
 213.232.114.123
 101.0.34.90
 *.networksinput.com
+94.131.108.109
+everything-everywhere.at.ply.gg
