@@ -1099,3 +1099,8 @@ compellingagent.com
 download.compellingagent.com
 api.compellingagent.com
 *.compellingagent.com
+restoro.com
+cloud.restoro.com
+service.restoro.com
+restoro.com
+*.restoro.com
